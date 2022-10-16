@@ -13,9 +13,10 @@ module.exports = {
 
     colors: {"purple-nuzzer": "#8A2BE2",                    //substituindo todas as cores
     "black": "#222222",
-    "deep-blue nuzzer": "#151F42",
+    "deep-blue": "#151F42",
     "dark-purple": "#693699",
     "white": "#D9D9D9",
+    "fff": "#fff",
     "gray": "#9A9A9A",
     "transparent": "transparent",
 

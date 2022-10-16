@@ -20,6 +20,7 @@ jobs:
 
         - name: Install dependencies
           run: npm ci --force
+          # run: npm ci --legacy-peer-deps         caso de erro no deploy
 
         - name: Build Storybook
           run: npm run build-storybook 

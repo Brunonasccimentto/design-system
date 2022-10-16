@@ -8,7 +8,7 @@ export interface textInputRootProps {
 function textInputRoot(props: textInputRootProps){
     return(
 
-        <div className=" bg-white w-96 h-10 rounded-xl focus-within:ring-2 ring-dark-purple flex items-center gap-4">
+        <div className=" bg-white w-[400px] h-10 rounded-xl focus-within:ring-2 ring-dark-purple flex items-center gap-4">
             {props.children}
         </div>
     )
