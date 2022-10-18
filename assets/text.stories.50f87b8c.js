@@ -1,0 +1,2 @@
+import{T as t}from"./text.392d4127.js";import"./index.module.d3a15228.js";import"./jsx-runtime.e0bf377c.js";import"./iframe.32a44f78.js";const a={title:"Components/Text",component:t,args:{children:"Lorem ipsum dolor sit amet"}},m={args:{size:"md"}},l={args:{size:"sm"}},i={args:{size:"lg"}},n=["Default","small","large"];export{m as Default,n as __namedExportsOrder,a as default,i as large,l as small};
+//# sourceMappingURL=text.stories.50f87b8c.js.map
