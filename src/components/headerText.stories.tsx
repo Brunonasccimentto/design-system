@@ -29,11 +29,11 @@ export const large: StoryObj<HeaderTextProps> = {
     }
 }
 
-export const CustomComponent: StoryObj<HeaderTextProps> = {
-    args: {
-        aschild: true,
-        children: ( 
-            <h1>testando</h1>
-        )
-    }
-}
+// export const CustomComponent: StoryObj<HeaderTextProps> = {
+//     args: {
+//         aschild: true,
+//         children: ( 
+//             <h1>testando</h1>
+//         )
+//     }
+// }
